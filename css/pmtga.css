@@ -1,0 +1,19 @@
+/*CSS para impressão*/
+@media print {
+	.div-table {
+		width: 75%;
+		float: left;
+	}
+	.div-menu {
+		width: 100%;
+		float: left;
+		height: 75px;
+	}
+	table {
+		width: 100%;
+		margin: 0 auto;
+		border-collapse: collapse;
+		border: 1px solid #000;
+		color: #000;
+	}
+}
