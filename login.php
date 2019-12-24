@@ -16,6 +16,10 @@
 
   <link href="css/sb-admin-2.css" rel="stylesheet">
 
+  <link rel="icon" type="img/png" sizes="192x192"  href="img/android-icon-192x192.png">
+  <link rel="icon" type="img/png" sizes="32x32" href="img/favicon-32x32.png">
+  <link rel="icon" type="img/png" sizes="96x96" href="img/favicon-96x96.png">
+  <link rel="icon" type="img/png" sizes="16x16" href="img/favicon-16x16.png">
 </head>
 
 <body class="bg-gradient-primary">
@@ -53,6 +57,8 @@
 
                   <hr>
                   <div class="text-center mt-4">
+                    <p><img src="img/brasao.png" alt="Tangará da Serra - MT" width="50">    
+                    <img src="img/favicon.png" alt="Tangará da Serra - MT" width="50"></p>
                     <p class="small">Prefeitura Municipal de Tangará da Serra</p>
                     <p class="small">Departamento de Informática</p>
                   </div>

@@ -3,6 +3,7 @@
 	* chamando o aquivo de conexão com o BD
 	**/
 	require('cnx.php');
+	require('session.php');
 
 	/**
 	* recuperando variável com o id do

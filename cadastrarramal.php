@@ -1,7 +1,8 @@
 <?php
   require('cnx.php');
   require('header.php');
-  require('sidebar.php');
+  require('session.php');
+  require('sidebarlogado.php');
 ?>
 
     <!-- Content Wrapper -->

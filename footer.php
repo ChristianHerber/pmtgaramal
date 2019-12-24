@@ -8,7 +8,18 @@
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Departamento de Informática - Prefeitura Municipal de Tangará da Serra</span>
+            <div class="row">
+              <div class="col-md-3">
+                <p class="mt-2"><img src="img/brasao.png" alt="Tangará da Serra - MT" width="50"></p>
+              </div>
+              <div class="col-md-6">
+                <p>Prefeitura Municipal de Tangará da Serra</p>
+                <p>Departamento de Informática</p>
+              </div>
+              <div class="col-md-3">
+                <p class="mt-2"><img src="img/favicon.png" alt="Tangará da Serra - MT" width="50"></p>
+              </div>
+            </div>
           </div>
         </div>
       </footer>

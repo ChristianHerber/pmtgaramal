@@ -1,1 +1,1 @@
-<?php header('location:listarramal');
+<?php header('location:listaPublicaRamal');

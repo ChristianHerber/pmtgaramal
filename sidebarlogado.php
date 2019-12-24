@@ -2,7 +2,7 @@
     <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
       <!-- Sidebar - Brand -->
-      <a class="sidebar-brand d-flex align-items-center justify-content-center" href="listaPublicaRamal">
+      <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
         <div class="sidebar-brand-icon rotate-n-15">
             <i class="fas fa-phone-square-alt"></i>
         </div>
@@ -12,18 +12,18 @@
       <!-- Divider -->
       <hr class="sidebar-divider my-0">
 
+      <!-- Nav Item - Dashboard -->
       <li class="nav-item">
-        <a class="nav-link" href="login">
-          <i class="fas fa-fw fa-lock"></i>
-          <span>Login</span></a>
-      </li>  
+        <a class="nav-link" href="cadastrarramal">
+          <i class="fas fa-fw fa-plus-circle"></i>
+          <span>Cadastrar</span></a>
+      </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="ajuda">
-          <i class="fas fa-fw fa-question"></i>
-          <span>Ajuda</span></a>
-      </li>  
-
+        <a class="nav-link" href="listarramal">
+          <i class="fas fa-fw fa-eye"></i>
+          <span>Visualizar</span></a>
+      </li>
 
       <!-- Divider -->
       <hr class="sidebar-divider">
