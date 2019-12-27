@@ -11,6 +11,8 @@
       <!-- Main Content -->
       <div id="content">
 
+        <?php require('navlogado.php'); ?>
+
         <!-- Begin Page Content -->
         <div class="container-fluid">
 

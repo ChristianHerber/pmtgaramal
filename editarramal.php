@@ -12,6 +12,8 @@
     <!-- Content Wrapper -->
     <div id="content-wrapper" class="d-flex flex-column">
 
+      <?php require('navlogado.php'); ?>
+
       <!-- Main Content -->
       <div id="content">
 
