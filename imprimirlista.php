@@ -52,7 +52,7 @@
 
 					<?php 
 
-					    $query = "SELECT * FROM ramal";
+					    $query = "SELECT * FROM ramal ORDER BY ram_secretaria";
 
 					    if ($result = mysqli_query($mysqli, $query)) {
 
