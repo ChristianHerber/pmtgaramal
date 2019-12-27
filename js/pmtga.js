@@ -57,6 +57,11 @@ $( document ).ready(function(){
             '<option value="Administrativo">Administrativo</option>'
           );
         break;
+        case 'Esporte':
+          $('#ram_setor').html(
+            '<option value="Administrativo">Administrativo</option>'
+          );
+        break;
         case 'Fazenda':
           $('#ram_setor').html(
             '<option value="Contabilidade">Contabilidade</option>' +
@@ -148,11 +153,6 @@ $( document ).ready(function(){
             '<option value="SUTRAV">SUTRAV</option>'
           );
         break;
-        case 'RLZ':
-          $('#ram_setor').html(
-            '<option value="Administrativo">Administrativo</option>'
-          );
-        break;
         case 'Esporte':
           $('#ram_setor').html(
             '<option value="Administrativo">Administrativo</option>'
@@ -201,6 +201,11 @@ $( document ).ready(function(){
             '<option value="VIGILÂNCIA AMBIENTAL">VIGILÂNCIA AMBIENTAL</option>' +
             '<option value="VIGILÂNCIA EPIDEMIOLÓGICA">VIGILÂNCIA EPIDEMIOLÓGICA</option>' +
             '<option value="VIGILÂNCIA SANITÁRIA">VIGILÂNCIA SANITÁRIA</option>'
+          );
+        break;
+        case 'RLZ':
+          $('#ram_setor').html(
+            '<option value="Administrativo">Administrativo</option>'
           );
         break;
         default:

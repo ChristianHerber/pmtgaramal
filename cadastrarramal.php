@@ -46,6 +46,8 @@
                           <option value="SERRAPREV">SERRAPREV</option>
                           <option value="Indústria e Comércio">Indústria e Comércio</option>
                           <option value="Saúde">Saúde</option>
+                          <option value="Esporte">Esporte</option>
+                          <option value="RLZ">RLZ</option>
                         </select>
                       </div>
                     </div>
