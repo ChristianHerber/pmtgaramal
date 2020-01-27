@@ -1,6 +1,6 @@
 <?php
 	/**
-	* chamando o aquivo de conexão com o BD
+	* chamando o aquivo de conexão com o BD - teste
 	**/
 	require('cnx.php');
 	require('session.php');
